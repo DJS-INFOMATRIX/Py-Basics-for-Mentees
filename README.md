@@ -3,6 +3,7 @@
 ### Keynotes:
 - Python is an interpreted language. The Python interpreter runs a program by executing one statement at a time. The standard interactive Python interpreter can be invoked on the command line with the python command
 - 
+- Python uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl.
 
 ### Important links:-
  1. Setup Python Notebooks in VSCode:
