@@ -6,4 +6,5 @@
 ### Important links:-
  1. Setup Python Notebooks in VSCode:
     in MacOS: https://www.youtube.com/watch?v=K0B2P1Zpdqs&pp=ygUWc2V0dXAgaXB5bmIgaW4gdnNjb2RlIA%3D%3D
+    
     in Windows: https://www.youtube.com/watch?v=h1sAzPojKMg&pp=ygUWc2V0dXAgaXB5bmIgaW4gdnNjb2RlIA%3D%3D
